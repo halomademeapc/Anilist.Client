@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AniList.Client", "AniList.Client\AniList.Client.csproj", "{664181CE-5109-4A85-89DA-A47112543198}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anlist.Client.Tests", "Anlist.Client.Tests\Anlist.Client.Tests.csproj", "{EBF286BA-2360-49B9-8AA2-B1AF94C36B2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{664181CE-5109-4A85-89DA-A47112543198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664181CE-5109-4A85-89DA-A47112543198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664181CE-5109-4A85-89DA-A47112543198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664181CE-5109-4A85-89DA-A47112543198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF286BA-2360-49B9-8AA2-B1AF94C36B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF286BA-2360-49B9-8AA2-B1AF94C36B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF286BA-2360-49B9-8AA2-B1AF94C36B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF286BA-2360-49B9-8AA2-B1AF94C36B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C0BE81C-B18E-4325-85A0-14F84AF3E2E4}
+	EndGlobalSection
+EndGlobal
